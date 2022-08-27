@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ryunaes" alt="ryunaes" /></a> </p>
 
-- 🔭 I’m currently working on **Zorry Networks**
+- 🔭 **Zorry Networks**'de Developer ve Owner yetkilerine sahibim.
 
-- 🌱 I’m currently learning **Go & PHP**
+- 🌱 Öğrenmeye Devam Ettiğim Diller: **Go & PHP**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
