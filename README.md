@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ryunaes" alt="ryunaes" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/ryunaes" target="blank"><img src="https://img.shields.io/twitter/follow/ryunaes?logo=twitter&style=for-the-badge" alt="ryunaes" /></a> </p>
-
 - 🔭 I’m currently working on **Zorry Networks**
 
 - 🌱 I’m currently learning **Go & PHP**
