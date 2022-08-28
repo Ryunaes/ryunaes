@@ -1,5 +1,5 @@
 <h1 align="center">Selam, Ben Arda.</h1>
-<h3 align="center">Yazılım Geliştiriciliği Yapıyorum.</h3>
+<h3 align="center"></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ryunaes&label=Profili%20G%C3%B6r%C3%BCnt%C3%BCleyenler&color=b4f500&style=plastic" alt="ryunaes" /> </p>
 
