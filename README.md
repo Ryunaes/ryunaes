@@ -7,7 +7,7 @@
 
 - 🔭 **Zorry Networks**'de Developer ve Owner yetkilerine sahibim.
 
-- 🌱 Öğrenmeye Devam Ettiğim Diller: **Go & PHP**
+- 🌱 Öğrenmeye Devam Ettiğim Diller: **Go & C#**
 
 <h3 align="left">Sosyal Medya Hesaplarım:</h3>
 <p align="left">
