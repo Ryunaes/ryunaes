@@ -9,6 +9,7 @@
 <a href="https://twitter.com/ryunaes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ryunaes" height="30" width="40" /></a>
 <a href="https://fb.com/ardademirkanm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ardademirkanm" height="30" width="40" /></a>
 <a href="https://instagram.com/ardademirkanm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ardademirkanm" height="30" width="40" /></a>
+<a href="https://discordapp.com/users/619630929354162186" target="blank"><img aling="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ryunaes#5317" height="30" width="40"/><a/>
 </p>
 
 <h3 align="left">Kullandığım Diller ve Araçlar.</h3>
