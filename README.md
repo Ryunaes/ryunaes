@@ -5,10 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ryunaes" alt="ryunaes" /></a> </p>
 
-- 🔭 **Zorry Networks**'de Developer ve Owner yetkilerine sahibim.
-
-- 🌱 Öğrenmeye Devam Ettiğim Diller: **Go & C#**
-
 <h3 align="left">Sosyal Medya Hesaplarım:</h3>
 <p align="left">
 <a href="https://twitter.com/ryunaes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ryunaes" height="30" width="40" /></a>
